@@ -9,3 +9,5 @@ Quiz 1 colab link: https://colab.research.google.com/drive/1822u3n3rtksFqmIjV4p3
 Quiz 2 colab link: https://colab.research.google.com/drive/1IMZnQnPbXksN_W0Pblo4cKhJDn4Da9qp?usp=sharing
 
 Q18 Machine Learning Rolling Basis colab link: https://drive.google.com/drive/folders/1JRbVz-Zu1wSepdsM4L2jfv9hFUPc4Tat?usp=sharing
+
+Lab 5 colab link: https://colab.research.google.com/drive/1psH6K5ZWzZOf_aoJOFXtJilmCf5hsVSz?usp=sharing
