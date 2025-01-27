@@ -10,6 +10,8 @@ Lab 4 colab link: https://colab.research.google.com/drive/1l5KojtHBj0WQIL5xoBlsI
 
 Lab 5 colab link: https://colab.research.google.com/drive/1psH6K5ZWzZOf_aoJOFXtJilmCf5hsVSz?usp=sharing
 
+Lab 6 colab link: https://drive.google.com/file/d/1JSsXOs8kMU7sCmd9swWl_vFbDd4W7XWr/view?usp=sharing
+
 Quiz 1 colab link: https://colab.research.google.com/drive/1822u3n3rtksFqmIjV4p3IvGST1PyovKj?usp=sharing
 
 Quiz 2 colab link: https://colab.research.google.com/drive/1IMZnQnPbXksN_W0Pblo4cKhJDn4Da9qp?usp=sharing
