@@ -15,3 +15,5 @@ Lab 6 colab link: https://drive.google.com/file/d/1JSsXOs8kMU7sCmd9swWl_vFbDd4W7
 Quiz 1 colab link: https://colab.research.google.com/drive/1822u3n3rtksFqmIjV4p3IvGST1PyovKj?usp=sharing
 
 Quiz 2 colab link: https://colab.research.google.com/drive/1IMZnQnPbXksN_W0Pblo4cKhJDn4Da9qp?usp=sharing
+
+SymPyLUSolve: https://drive.google.com/file/d/1DhUHWtBkJbnpdANI2KVXAPWZ0RrWZGs2/view?usp=sharing
