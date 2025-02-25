@@ -17,3 +17,5 @@ Quiz 1 colab link: https://colab.research.google.com/drive/1822u3n3rtksFqmIjV4p3
 Quiz 2 colab link: https://colab.research.google.com/drive/1IMZnQnPbXksN_W0Pblo4cKhJDn4Da9qp?usp=sharing
 
 SymPyLUSolve: https://drive.google.com/file/d/1DhUHWtBkJbnpdANI2KVXAPWZ0RrWZGs2/view?usp=sharing
+
+LABCramer: https://drive.google.com/file/d/1FzhIy_exKe2NNfwacVdEF7jufVu1qLX9/view?usp=sharing
